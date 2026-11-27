@@ -2,7 +2,7 @@
 
 An interactive case study of how I redesigned the way a pre-sales team records work and reads performance: one connected product for Sales, Graphics and leadership, replacing a long request form, a weekly Excel export and a hand-rebuilt HTML report.
 
-**View it live:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**View it live:** [https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/](https://github.com/ManishR2000/Sales_Dashboard_Redesign)
 
 ## What's inside
 
